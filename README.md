@@ -59,5 +59,5 @@ To run this project locally:
 
 ## Contact
 
-You can reach me at [ay7924252@gmail.com](mailto:theunfunnygeek@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pushkar-raj-8b322631a/).
+You can reach me at [theunfunnygeek@gmail.com](mailto:theunfunnygeek@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pushkar-raj-8b322631a/).
 
