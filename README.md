@@ -42,7 +42,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BHAVISHEK1/Portfolio.git
+   git clone https://github.com/pushkarrajlife/Portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
