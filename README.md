@@ -4,7 +4,7 @@ Welcome to my portfolio website! This repository contains the source code for my
 
 ## Live Demo
 
-Check out the live version of my portfolio [here](https://pushkarrajlifeportfolio.netlify.app/).
+Check out the live version of my portfolio [here] (https://pushkarrajlifeportfolio.netlify.app/).
 
 ## Technologies Used
 
